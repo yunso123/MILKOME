@@ -1,8 +1,8 @@
 #!/bin/bash
 #PBS -W group_list=dtu_00032 -A dtu_00032
-#PBS -N __JOB_NAME__
-#PBS -e __ERROR_LOG__
-#PBS -o __OUTPUT_LOG__
+#PBS -N avamb
+#PBS -e avamb.err
+#PBS -o avamb.log
 #PBS -l nodes=1:thinnode:ppn=40
 #PBS -l mem=188gb
 #PBS -l walltime=72:00:00
