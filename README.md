@@ -1,4 +1,4 @@
-# MILKOME
+# MILKOME Cohort Sutdy 
 
 MILKOME is a mother-infant cohort study conducted in Copenhagen, a collaboration between the Technical University of Denmark (DTU) and Rigshospitalet. The study was led by DTU, with participants recruited by Rigshospitalet.
 
