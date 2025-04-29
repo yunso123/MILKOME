@@ -12,8 +12,8 @@ module load tools
 module load bowtie2/2.5.2
 
 cd /home/projects/dtu_00032/analysis/milk-cohort
-#mkdir data/host_removed
-#mkdir data/bowtie
+mkdir -p data/host_removed
+mkdir -p data/bowtie
 
 file=$(cat logs/stools.txt)
 for N in $file; do
