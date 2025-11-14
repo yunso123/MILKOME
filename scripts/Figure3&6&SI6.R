@@ -1,4 +1,4 @@
-### Figure 3b, Figure 6a, Extended Figure 4b.
+### Figure 3b, Figure 6a, SI Figure 6b.
 
 # Second Enrichment - infants------------------------------------------------------
 ### Author: Yunjeong So
